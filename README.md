@@ -1,5 +1,5 @@
 hola a todos
-Soy estudiante de Ciencia de Datos, interesado en el análisis, procesamiento y visualización de información para la resolución de problemas mediante herramientas estadísticas y computacionales.
+Soy estudiante de Ciencia de Datos interesada en el análisis, procesamiento y visualización de información para la resolución de problemas mediante herramientas estadísticas y computacionales.
 
 En este espacio comparto proyectos, prácticas y trabajos desarrollados durante mi formación académica, relacionados con estadística, programación, aprendizaje automático, análisis multivariado, visualización de datos y otras áreas de la Ciencia de Datos.
 
